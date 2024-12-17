@@ -22,7 +22,7 @@ Les clients (PC,Portables,mobiles,tablettes...) seront en DHCP
 ## Plan de nommage et DNS
 - Le rôle DNS est installé sur un windows serveur
 - Il  n'y a pas de rôle active directory
-- Une zone reverse doit être Crée
+- Une zone reverse doit être crée
 - Les roots servers sont mis à jour
 - Les nom FQDN doivent être qualifiée
 - Créer des records A pour chaque équipements
