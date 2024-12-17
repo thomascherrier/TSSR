@@ -1,7 +1,7 @@
 # TP TSSR24_1 : Le dernier réseau à plat du reste de ta vie...
 
 ## Préambule
-- Choisir un nom d'entité, un contexte rapide et un logo rapide
+- Choisir un nom d'entité, un contexte rapide et un logo.
 - Créer un schéma réseau de l'infrastructure sous draw.io
 tous les équipements sont pinguables
 - Votre plan d'adressage doit être rationnel et les équipements fixe seront en fin de réseau
