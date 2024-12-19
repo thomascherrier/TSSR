@@ -103,7 +103,7 @@ Le serveur doit diffuser :
 - le netmask
 - le serveur DNS
 - le serveur de Temps
-- un bail de 12h
+- un bail de 24h
 
 ## Virtualisation
 Un serveur ESXI 8 ou Proxmox doit être installé en ip fixe sur 192.168.40.253 ( FQDN : esx.mondomaine.lan ou pve.mondomaine.lan)
