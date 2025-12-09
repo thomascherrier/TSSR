@@ -23,7 +23,7 @@
 - sudo 
 - lynx : navigateur http(s) en CLI
 
-### installation de la couche **netbios**
+### installation de la couche **netbios** (uniquement pour les postes en local non exposé sur Internet)
 
 `apt install winbind samba`
 
