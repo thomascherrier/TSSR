@@ -27,7 +27,7 @@
 
 `apt install winbind samba`
 
-modifer le fichier **nsswitch** et ajouter wins à la fin de la directive **file**
+modifer le fichier **nsswitch** et ajouter wins à la fin de la ligne **hosts**
 
 `nano /etc/nsswitch.conf`
 
