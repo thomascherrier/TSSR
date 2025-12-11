@@ -14,7 +14,7 @@ Créer un partage type **MiniNas** pour TPE en respectant formalisme,nommage et 
 
 - 1 réseau à plat en /24
 - 1 workgroup nommé Contoso
-- le poste client windows est en dhcp dans - le réseau et se nomme poste01
+- le poste client windows est en dhcp dans  et se nomme poste01
 - Le poste serveur debian est en IP fixe et se nomme nas
 
 ### Datastore
