@@ -28,7 +28,7 @@ Créer sur le serveur de fichier cette arborescence
 - /partage/commun
 - /partage/public
 
-peupler de fichier témoin cette arborescence
+peupler de fichiers témoins cette arborescence
 
 ### Utilisateurs
 
