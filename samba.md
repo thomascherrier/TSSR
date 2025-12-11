@@ -2,7 +2,7 @@
 
 ## Objectifs 
 
-Créer un partage type **MiniNas** pour PME en respectant formalisme,nommage et bonnes pratiques.
+Créer un partage type **MiniNas** pour TPE en respectant formalisme,nommage et bonnes pratiques.
 
 ## Contexte
 
