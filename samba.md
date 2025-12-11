@@ -44,7 +44,7 @@ La VM Windows sera multicompte
 
 - Tout le monde possède un accès R sur public
 - Tout le monde possède un accès RW sur commun
-- Les personnes ont toutes un accès en RW sur un dossier perso
+- Les personnes ont toutes un accès en RW sur un dossier perso [homes]
 - Dupuis a un accès RW sur direction
 - Boulier a un accès RW sur compta
 - Jeanne a un accès RW sur communication
