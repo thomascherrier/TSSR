@@ -1,4 +1,4 @@
-# TP TSSR24_1 : Le dernier réseau à plat du reste de ta vie...
+# TP TSSR25_1 : Le dernier réseau à plat du reste de ta vie...
 
 ## Préambule
 - Choisir un nom d'entité, un contexte rapide et un logo.
@@ -49,7 +49,7 @@ Ce switch sera configuré en IP Fixe et sera pleinement exploité au niveau des 
 - 1 server Windows 2022 avec le DNS (accès RDP ouvert, FW sur réseau privé, MAJ coupées)
 
 ## clients
-- Des Vms client win10 ou win11 peuvent être créer
+- Des Vms client win10 ou win11 peuvent être créer sous VMWare Workstation sur vos PC respectifs
 - Vos postes fixes sont également en wifi
 - Ces postes sont dans un workgroup dont le nom est lié au domaine (ie: bobdy)
 
