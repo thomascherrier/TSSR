@@ -1,5 +1,7 @@
 ## Ressources IT
 
+` ceci est du code `
+
 ### Anglais (Méthode magique pour augmenter votre niveau d'anglais de 100% sans rien faire!)
 
 - Duolingo.
