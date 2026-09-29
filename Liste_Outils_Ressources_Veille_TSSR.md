@@ -2,7 +2,7 @@
 
 ### Anglais (Méthode magique pour augmenter votre niveau d'anglais de 100% sans rien faire!)
 
-- Duolingo
+- Duolingo.
 - Deepl
 - Google Translate
 - WordReference
