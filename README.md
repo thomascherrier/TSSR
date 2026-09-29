@@ -1,1 +1,1 @@
-*différente ressources pédagogique pour la formation TSSR*
+*Différentes ressources pédagogique pour la formation TSSR créer par moi-même*
