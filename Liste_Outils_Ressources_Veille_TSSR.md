@@ -37,6 +37,15 @@
 - IP/Pigeon : https://www.rfc-editor.org/rfc/rfc2549
 - The Internet is Made of Cat : https://objectif2038.net/theinternetismadeofcats/
 
+### Podcast
+
+- NoLimitSecu
+- Le Code a changé
+
+### Chaines Youtube
+
+- Xavki
+- Stéphane RobertTest
 ### Prise de note
 - MD : un éditeur au format MD 
 - Cherry tree
@@ -47,15 +56,7 @@
 - Obsidian
 - AsciiDoc
 
-### Podcast
 
-- NoLimitSecu
-- Le Code a changé
-
-### Chaines Youtube
-
-- Xavki
-- Stéphane RobertTest
 
 
 ## Outils
